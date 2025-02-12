@@ -1,4 +1,26 @@
-# Atividade 1: Empacotando uma aplicação simples de frontend com Docker
+# Desafio-Modulo-Docker-Stackx
+
+<br>
+
+<div align="left">
+
+
+## Índice
+- [Objetivo](#-objetivo)
+- [Atividade 1](#atividade-1-empacotando-uma-aplicação-simples-de-frontend-com-docker)
+  - [ Requisitos](#requisitos)
+  - [ Como Executar](#como-executar)
+  - [ Detalhes da  Imagem](#detalhes-da-imagem)
+
+
+<br>
+
+## Objetivo
+ 
+
+<br>
+
+## Atividade 1: Empacotando uma aplicação simples de frontend com Docker
 
 Este repositório contém a solução para a Atividade 1 do módulo Docker, onde empacotamos uma aplicação simples de frontend usando a imagem oficial do Nginx.
 
@@ -17,14 +39,14 @@ Este repositório contém a solução para a Atividade 1 do módulo Docker, onde
 
 <br>
 
-## Requisitos
+### 1.1 Requisitos
 
 - Docker instalado e configurado.
 
 ***
 <br>
 
-## Como executar
+### Como executar
 
 <br>
 
@@ -67,7 +89,7 @@ Este repositório contém a solução para a Atividade 1 do módulo Docker, onde
 
 ***  
 
-7. PRemover o container
+7. Remover o container
    ```bash
    sudo docker rm atv1
 
@@ -75,7 +97,7 @@ Este repositório contém a solução para a Atividade 1 do módulo Docker, onde
 
 ***  
 
-## Detalhes da Imagem:
+### Detalhes da Imagem:
 
 - Imagem base: nginx:alpine
 
@@ -87,9 +109,3 @@ Este repositório contém a solução para a Atividade 1 do módulo Docker, onde
 
 - Pacotes instalados: curl, htop, wget
 
-  <br> 
-  *** 
-
-## Adicionar capturas de tela (opcional):
-
-Se desejar, você pode adicionar capturas de tela da aplicação em funcionamento no `README.md` ou em uma pasta separada dentro do repositório.  
