@@ -30,7 +30,7 @@ Este repositório contém a solução para a Atividade 1 do módulo Docker, onde
   
 <img src= "https://media.giphy.com/media/3zSF3Gnr7cxMbi6WoP/giphy.gif" align="center" height="55" width="55"> [Demonstração-Aplicação Docker] <img src= "https://media.giphy.com/media/E5DzZsofmgxc9wjbhX/giphy.gif" align="center" height="35" width="35">
 
-![Captura de Tela da Aplicação](images/aplicacao-docker.png)
+![Captura de Tela da Aplicação](/atv1/images/aplicacao-docker.png)
 
 <br>
 
@@ -39,7 +39,7 @@ Este repositório contém a solução para a Atividade 1 do módulo Docker, onde
 
 <br>
 
-### 1.1 Requisitos
+### Requisitos
 
 - Docker instalado e configurado.
 
