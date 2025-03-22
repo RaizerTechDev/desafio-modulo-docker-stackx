@@ -176,7 +176,7 @@ Este repositório contém a solução para a Atividade 2 do módulo Docker, onde
 
  <br> 
 
- ## <i>Detalhes da Stack</i>
+## <i>Detalhes da Stack</i>
 
     Wiki.js: Imagem oficial ghcr.io/requarks/wiki:2.
 
@@ -202,9 +202,10 @@ Este repositório contém a solução para a Atividade 2 do módulo Docker, onde
 
  <br>
 
- ## <i>Persistência de Dados</i>
+## <i>Persistência de Dados</i>
 
-    Os dados do PostgreSQL são armazenados em um volume Docker chamado wiki_db_data. Isso garante que os dados sejam mantidos mesmo se o container for reiniciado ou removido. 
+Os dados do PostgreSQL são armazenados em um volume Docker chamado wiki_db_data. Isso garante que os dados sejam mantidos mesmo se o container for reiniciado ou removido. 
+
   - Como acessar o PostgreSQL e verificar as tabelas.
    
    - Conecte-se ao container do PostgreSQL:
@@ -249,33 +250,4 @@ Este repositório contém a solução para a Atividade 2 do módulo Docker, onde
        Execute o seguinte comando no diretório atv2: 
 
        ```bash
-       docker-compose down       
-
- <br>
-
-  8. <i>Como parar a stack</i>
-
-       Execute o seguinte comando no diretório atv2: 
-
-       ```bash
-       docker-compose down       
-
- <br>
- 
-   
-    
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-    
+       docker-compose down
