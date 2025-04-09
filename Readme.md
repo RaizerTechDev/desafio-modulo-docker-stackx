@@ -20,15 +20,14 @@
 <br>
 
 ## Objetivo
+
 Demonstrar domínio prático de Docker e Docker Compose através da criação de soluções escaláveis, desde aplicações simples até sistemas complexos com banco de dados, seguindo requisitos técnicos e boas práticas de conteinerização.
 
 <br>
 
 ---
 
-
-
-## Atividade 1: Empacotando uma aplicação simples de frontend com Docker<
+## Atividade 1: Empacotando uma aplicação simples de frontend com Docker
 
 Este repositório contém a solução para a Atividade 1 do módulo Docker, onde empacotamos uma aplicação simples de frontend usando a imagem oficial do Nginx.
 
