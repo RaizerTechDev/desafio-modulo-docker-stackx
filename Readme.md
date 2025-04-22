@@ -267,3 +267,48 @@ Os dados do PostgreSQL são armazenados em um volume Docker chamado wiki_db_data
     ```bash
     docker-compose down
     ```
+    
+<br>
+
+---
+
+## Tecnologias
+
+- HTML5 (Linguagem de marcação utilizada para a construção das páginas web).
+
+- Dockerfile (É um arquivo de texto (sem extensão) que contém instruções para construir uma imagem Docker).
+
+-  Docker-Image (É um pacote imutável (como um template) que contém tudo necessário para executar uma aplicação: código, runtime, bibliotecas e variáveis de ambiente).
+
+-  Docker-Compose (É uma ferramenta para definir e gerenciar múltiplos containers Docker em um único arquivo (YAML)).
+
+-  Wiki (Plataforma colaborativa de edição e compartilhamento de conhecimento (ex.: Wikipedia)).
+
+- Git (Sistema de controle de versões).
+
+- Github (Plataforma para hospedagem de código-fonte).
+
+- Visual Studio Code (Editor de código-fonte).
+
+- Navegador web (Interação com documentos HTML).
+
+<br>
+
+---
+
+## Licença
+
+- Esse projeto está sob a licença MIT.
+
+<br>
+
+---
+
+<img src="https://media.giphy.com/media/ImmvDZ2c9xPR8gDvHV/giphy.gif" align="center" height="25" width="25"> Autor
+
+<p>
+    <img align=left margin=10 width=80 src="https://avatars.githubusercontent.com/u/87991807?v=4"/>
+    <p>&nbsp&nbsp&nbspRafaRaizer-Dev<br>
+    &nbsp&nbsp&nbsp<a href="https://api.whatsapp.com/send/?phone=47999327137">Whatsapp</a>&nbsp;|&nbsp;<a href="https://www.linkedin.com/in/rafael-raizer//">LinkedIn</a>&nbsp;|&nbsp;<a href="https://github.com/RaizerTechDev">GitHub</a>|&nbsp;<a href="https://public.tableau.com/app/profile/rafael.raizer">Tableau</a>|&nbsp;<a href="https://raizertechdev-portfolio.netlify.app/">Portfólio</a>&nbsp;</p>
+</p>
+
